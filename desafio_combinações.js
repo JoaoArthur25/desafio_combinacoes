@@ -23,4 +23,4 @@ function encontrarCombinacoes(somaDesejada, indiceAtual, combinacaoAtual) {
 
 encontrarCombinacoes(53, 0, []);
 
-console.log(`O número de combinações totais cuja soma é 53 é: ${combinacoesTotais.length}`);
+console.log(`O número de combinações totais cujo a soma é 53 é: ${combinacoesTotais.length}`);
